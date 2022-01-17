@@ -73,7 +73,7 @@ public class Main {
 
     // 2 groups formed: related[0] and related[1], related[2] and related[3]
     // n = 4 people numbered related[0] through related[3]
-    public static int countGroups(List<List<String>> related){
+    public static int countGroups(List<String> related){
         int totalGroups = 0;
         return totalGroups;
     }

@@ -19,19 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e093f72c-3d15-4886-9de2-115ce15276dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CarInheritance/src/com/hackerrank/algorithms/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarInheritance/src/com/hackerrank/algorithms/HondaCity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarInheritance/src/com/hackerrank/algorithms/InnovaCryta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarInheritance/src/com/hackerrank/algorithms/WagonR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomerCreditLimit.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderManagementSystem.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PriceCheck/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheSuperheroesName.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidEmailAddresses/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YoungestEmployees.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e093f72c-3d15-4886-9de2-115ce15276dd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642276559372</updated>
       <workItem from="1642276562332" duration="129000" />
-      <workItem from="1642363763824" duration="2999000" />
+      <workItem from="1642363763824" duration="3058000" />
     </task>
     <servers />
   </component>
@@ -85,9 +73,9 @@
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="512" y="133" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1642276656920" />
-    <state x="159" y="12" key="new project wizard" timestamp="1642276686707">
+    <state x="159" y="12" key="new project wizard" timestamp="1642384928660">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="159" y="12" key="new project wizard/0.0.1463.783@0.0.1463.783" timestamp="1642276686707" />
+    <state x="159" y="12" key="new project wizard/0.0.1463.783@0.0.1463.783" timestamp="1642384928660" />
   </component>
 </project>
